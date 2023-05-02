@@ -7,7 +7,8 @@ function MainContent() {
 
       <h2 className="item-one">Lawal Awwal</h2>
       <p className="item-two">Frontend Developer</p>
-      <p className="item-three">awwallawal.website</p>
+      <p className="item-three"><a href="https://github.com/awwallawal/digital_business_card.git" target="_blank"><p>awwallawal.website</p></a> awwallawal.website</p>
+  
       
       <div className="btn-container">
         <div className="button email">
