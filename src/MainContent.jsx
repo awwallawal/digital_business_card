@@ -11,12 +11,12 @@ function MainContent() {
       
       <div className="btn-container">
         <div className="button email">
-          <a href="mailto: awwallawal@gmail.com" target="_blank"><img src="./src/icons8-email-48.png" alt="email icon" className="img-size aa"/></a>
+          <a href="mailto: awwallawal@gmail.com" target="_blank"><img src="/src/icons8-email-48.png" alt="email icon" className="img-size aa"/></a>
           <button><a href="mailto: awwallawal@gmail.com"><h3 className="email-link">Email</h3></a></button>
         </div>
 
         <div className="button linkedin">
-          <a href="https://www.linkedin.com/in/lawal-awwal-1a296134/" target="_blank"><img src="./src/icons8-linkedin-2-48.png" alt="linkedin icon" className="img-size ab" /></a>
+          <a href="https://www.linkedin.com/in/lawal-awwal-1a296134/" target="_blank"><img src="/src/icons8-linkedin-2-48.png" alt="linkedin icon" className="img-size ab" /></a>
           <button> <a href="https://www.linkedin.com/in/lawal-awwal-1a296134/" target="_blank"><h3 className="linkedin-link">LinkedIn</h3></a> </button>
         </div>
       </div>
