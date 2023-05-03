@@ -201,9 +201,11 @@ button >a {
 .item-one{
   font-size: 25px;
   line-height: 30px;
+  margin-bottom: 3px;
 }
 
 .item-two{
+  margin-top: 0;
   font-size: 12.8px;
   line-height: 15px;
   color: #F3BF99;
