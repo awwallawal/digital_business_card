@@ -65,6 +65,7 @@ body{
   justify-content: center;
   align-items: center;
   gap: 24px;
+  border: none;
 }
 
 .box-icon{
@@ -216,6 +217,15 @@ button >a {
   line-height: 150%;
   color: #F5F5F5;
   margin-bottom: 10px;
+}
+
+.item-three > a {
+  text-decoration: none;
+}
+
+.weblink:hover{
+  font-weight: 900;
+  color:#bf832a;
 }
 
 .inner-two{
