@@ -4,7 +4,7 @@ function Header() {
  return (
    <>
     <div className="Header">
-      <img src="/src/images/Awwal.jpg" alt="a passport photograph" className="Header-img"/>
+      <img src="./src/images/Awwal.jpg" alt="a passport photograph" className="Header-img"/>
     </div>
    </>
  )
